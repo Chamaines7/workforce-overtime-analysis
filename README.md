@@ -1,8 +1,8 @@
+# Workforce Scheduling & Overtime Analysis (Excel)
+
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
-
-# Workforce Scheduling & Overtime Analysis (Excel)
 
 ## Project Overview
 
